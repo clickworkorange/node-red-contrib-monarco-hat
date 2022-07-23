@@ -3,7 +3,7 @@
     "version": "1.0.4",
     "description": "Monarco HAT driver library for Node-RED",
     "dependencies": {
-        "monarco-hat": "^1.0.7"
+        "monarco-hat": "https://github.com/clickworkorange/monarco-hat-driver-nodejs.git"
     },
     "keywords": [
         "node-red",
